@@ -91,9 +91,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: MunProoo/MunProoo.github.io # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo_id: R_kgDOKtv82A
+    category: Announcements
+    category_id: DIC_kwDOKtv82M4CbEWM
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
