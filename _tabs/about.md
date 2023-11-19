@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+> <a href="https://thirsty-nerine-a05.notion.site/0aa602a2543a4d8c8d63dc30679eecfa?pvs=4">About Me</a>
