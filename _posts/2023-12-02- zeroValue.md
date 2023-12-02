@@ -1,5 +1,5 @@
 ---
-title: struct의 field zero value 지정
+title: Struct의 Field zero value 지정
 date : 2023-12-02 16:55
 category : [Study, Go]
 tags : [go, golang, struct, zero value]
