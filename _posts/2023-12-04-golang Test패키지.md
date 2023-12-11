@@ -1,7 +1,7 @@
 ---
 title: golang Test 패키지 사용
 date : 2023-12-04 23:11
-category : [Study, Go]
+category : [Study, Golang]
 tags : [go,golang, test, goconvey, testify]
 ---
 

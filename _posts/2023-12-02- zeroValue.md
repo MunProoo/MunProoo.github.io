@@ -1,7 +1,7 @@
 ---
 title: Struct의 Field zero value 지정
 date : 2023-12-02 16:55
-category : [Study, Go]
+category : [Study, Golang]
 tags : [go, golang, struct, zero value]
 ---
 
