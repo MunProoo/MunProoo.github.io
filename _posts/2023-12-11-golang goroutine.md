@@ -5,7 +5,6 @@ category : [Study, Golang]
 tags : [golang, goroutine, thread]
 ---
 
-Golang의 문법중 부족했던 부분들만 따로 요약하여 포스팅하려한다.  
 이번 포스팅의 주제는 Go Routine이다.
 
 ## 👉Thread
